@@ -36,7 +36,7 @@ The form validates user input, displays error messages for invalid emails, and s
 
 ## 🖥️ Setup & Usage
 1. Clone this repository:
-   git clone https://github.com/your-username/newsletter-signup-form.git
+   git clone https://github.com/DamaniSahu/Newsletter-Sign-Up-With-Success-Message.git
 2. Open index.html in your browser.
 3. Try subscribing with different email formats to test validation.
 
