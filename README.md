@@ -52,10 +52,10 @@ The form validates user input, displays error messages for invalid emails, and s
 ---
 
 ## 🔗 Live Demo 
-👉 
+👉 https://newsletter-sign-up-with-success-form.netlify.app/
 
 ---
 
 ## 👨‍💻 Author
 
-** Damani Sahu ** – Frontend Developer in progress 🚀
+**Damani Sahu** – Frontend Developer in progress 🚀
